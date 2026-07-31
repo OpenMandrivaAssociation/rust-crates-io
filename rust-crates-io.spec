@@ -6,8 +6,8 @@
 %global crate crates-io
 
 Name:           rust-%{crate}
-Version:        0.28.0
-Release:        2%{?dist}
+Version:        0.41.0
+Release:        1%{?dist}
 Summary:        Helpers for interacting with crates.io
 
 # Upstream license specification: MIT OR Apache-2.0
